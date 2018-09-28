@@ -1,4 +1,4 @@
-#Seed-Java
+# Seed-Java
 A simple seed for a java project
 
 ## Usage
