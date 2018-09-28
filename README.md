@@ -9,6 +9,7 @@ A simple seed for a java project
 ## Notes
 * Intellij can be used to run the project directly via the run menu/button/context menu
 * Intellij can be used to run the tests directly via the run menu/button/context menu
+    * Run all tests using the context menu of the ./src/test/java folder in the project window
     * tests can be triggered automatically upon source changes by performing the following
         * Build project automatically: Preferences > Build, Execution, Deployment > Compiler > Build project automatically
         * Run tests
